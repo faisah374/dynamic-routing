@@ -52,7 +52,7 @@ return(
  < h1 className="m-4">Name:{country.name}</h1>
  <h1 className="m-4">capital:{country.capital}</h1>
  <h1 className="m-4">population:{country.population}</h1>
-<Link href="/country" className="m-2 p-3 bg-pink-600 rounded-md text-base">Back to country list</Link>
+<Link href="/Country" className="m-2 p-3 bg-pink-600 rounded-md text-base">Back to country list</Link>
   </div>
  </div>
 )
