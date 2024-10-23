@@ -24,8 +24,7 @@ export default function CountryName({params}){
         population: 91820389
     },
 
-      {
-        name:"Sudiarab",
+      {name:"Sudiarab",
         capital:"Ryhad",
         population:34141200
     },
