@@ -1,5 +1,4 @@
-import Image from "next/image"
-import Country from "./Country/page"
+
 
 export default function Home() {
   return (
